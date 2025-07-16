@@ -2,16 +2,49 @@
 
 ###
 
+<img src="https://github.com/user-attachments/assets/642ba91e-a515-4eb9-b9f3-2f8d2895c787" alt="IMG20230512102805" width="260" style="border-radius: 50%;" align="right" />
+
+### 😵 &nbsp;About Me
+
+⛄ &nbsp;I am currently looking for a job, mainly as a Backend Developer. As well I also can work on Frontend but I don't like so much working on responsive 😅. In that way I consider myself a FullStack 🤓.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Systems Engineering at North's Private University.\
+🌱 &nbsp;I'm on track for learning more about Microservice Based Architecture.\
+⚽ &nbsp;In my free time I like to play football, I am actually kinda bad but i don't give up easely.\
+🐶 &nbsp;Of course i was going to talk about the bud of the photo. His name is *Jet*, my best friend, he is 13 yo, sometimes he grabs a knife in an attempt to blackmail me for food but i know he loves me... deep in his heart 🤍.\
+✉️ &nbsp;You can shoot me an email at diegoaqb.123@gmail.com! I'll respond as soon as I notice.\
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/19mtgKELrJTHCPvD5pQpJSUXQ1-jcFROh/view?usp=sharing) for more details about me or my resume. I'm open to feedback and suggestions! 🙂.
+
+###
+
+## You can find me on
+
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/135300277?v=4"  />
+  <a href="https://www.linkedin.com/in/dquipuzco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/dmentaaa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/daqb.003/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
+## My GitHub Stats 📊
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dMeenta&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dMeenta&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dMeenta&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dMeenta&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+## Technologies that i know 👾
 
 ###
 
@@ -57,7 +90,11 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
+##
+
 ###
+
+### <h4>Actually don't know how to call this section but I like the way it sees and wanted to share what i am listening 😄</h4>
 
 <div align="center">
   
@@ -66,18 +103,3 @@
 </div>
 
 ###
-
-<!--
-**dMeenta/dMeenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
